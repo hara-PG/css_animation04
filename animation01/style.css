@@ -5,6 +5,10 @@
   padding: 15px;
   color: #ffffff;
   background-color: #1a60bf;
+  transition-property: all;
+  transition-duration: 0.5s;
+  transition-delay: 0s;
+  transition-timing-function: ease-in;
 }
 
 .button a:hover {
