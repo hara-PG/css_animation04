@@ -1,0 +1,13 @@
+.button a {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 15px;
+  color: #ffffff;
+  background-color: #1a60bf;
+}
+
+.button a:hover {
+  color: #1a60bf;
+  background-color: #d0e2fb;
+}
